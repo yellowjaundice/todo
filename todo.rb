@@ -8,3 +8,5 @@ def menu
   puts "4. Exit"
 end
 menu
+
+puts 'hey'
